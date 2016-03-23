@@ -1,0 +1,29 @@
+{
+  "name": "react-component-filtered-list",
+  "version": "0.0.0",
+  "description": "FilteredList",
+  "main": "dist/react-component-filtered-list.min.js",
+  "homepage": "https://github.com/macavity/react-component-filtered-list",
+  "authors": [
+    "Alexander Pape"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
